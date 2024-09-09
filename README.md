@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Front End Development<br>👯 I’m looking to collaborate on Front End Web Development<br>🌱 I’m currently learning MERN STACK<br>⚡ Fun fact - I'm Crazy Developer
+🔭 I’m currently working on MERN Stack Development<br>👯 I’m looking to collaborate on MERN Stack Web Development<br>🌱 I’m currently learning Advence Features of MERN STACK<br>⚡ Fun fact - I'm Crazy Developer
 
 
 ## 🌐 Socials:
