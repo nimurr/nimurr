@@ -1,6 +1,5 @@
 # 💫 About Me:
 
-[(https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/mdnirob.islam.3914/)]
 🔭 I’m currently working on MERN Stack Development<br>👯 I’m looking to collaborate on MERN Stack Web Development<br>🌱 I’m currently learning Advence Features of MERN STACK<br>⚡ Fun fact - I'm Crazy Developer
 
 
