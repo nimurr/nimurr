@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-🔭 I’m currently working on  Software Development <br>👯 I’m looking to collaborate on MERN Stack Web Development<br>🌱 I’m currently learning Advence Features of MERN STACK<br>⚡ Fun fact - I'm Crazy Developer
+🔭 I’m currently working on  Software Development <br>👯 I’m looking to collaborate on AI And MERN Stack Web Development<br>🌱 I’m currently learning Advence Features of MERN STACK<br>⚡ Fun fact - I'm Crazy Developer
 
 
 ## 🌐 Socials:
