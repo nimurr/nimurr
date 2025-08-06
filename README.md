@@ -105,13 +105,8 @@
 ## 📞 Let's Connect!
 
 > Feel free to reach out for collaboration, hiring, or just tech talk 😊
+> +88 01708784404
 
----
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=nimurr&label=Profile%20Views&color=6&icon=5&pretty=true" />
-</p>
-
----
 
 <!-- Made with ❤️ by Nimur Rahman Nerob -->
