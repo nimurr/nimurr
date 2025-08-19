@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Nimur Rahman Nerob 👋</h1>
 
 <p align="center">
-  🔭 Software Developer | 💻 MERN Stack Enthusiast | 🤖 Exploring AI
+  🔭 Software Developer | 💻 MERN Stack Enthusiast | 🤖 Exploring AI | 🅱️ Learn Blockchain
 </p>
 
 <p align="center">
