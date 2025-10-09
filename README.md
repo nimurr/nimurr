@@ -10,7 +10,7 @@
 
 
 
-![Banner](https://media.licdn.com/dms/image/v2/D5616AQGIOaZVnebEuA/profile-displaybackgroundimage-shrink_350_1400/B56ZnHPYUQIYAY-/0/1759984322789?e=1762992000&v=beta&t=TcOgKcFdOM0p06svSi8b-Mmu_NWZdj8mK6wR9dmDAjY)
+![Banner]([https://media.licdn.com/dms/image/v2/D5616AQGIOaZVnebEuA/profile-displaybackgroundimage-shrink_350_1400/B56ZnHPYUQIYAY-/0/1759984322789?e=1762992000&v=beta&t=TcOgKcFdOM0p06svSi8b-Mmu_NWZdj8mK6wR9dmDAjY](https://media.licdn.com/dms/image/v2/D5616AQGbQKOEFYx9JA/profile-displaybackgroundimage-shrink_350_1400/B56ZnHaV1cIAAY-/0/1759987195955?e=1762992000&v=beta&t=syyd3ec5yqgrHTAlM1HiSaHeeYut8y0Udr29IuJA6VA))
 
 
 ---
