@@ -9,10 +9,6 @@
 </p>
 
 
-
-![Banner](https://media.licdn.com/dms/image/v2/D5616AQGbQKOEFYx9JA/profile-displaybackgroundimage-shrink_350_1400/B56ZnHaV1cIAAY-/0/1759987195955?e=1762992000&v=beta&t=syyd3ec5yqgrHTAlM1HiSaHeeYut8y0Udr29IuJA6VA)
-
-
 ---
 
 ## 🚀 About Me
@@ -69,35 +65,11 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nimurr&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nimurr&layout=compact&theme=tokyonight&hide_border=false)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nimurr&theme=tokyonight&hide_border=false)
 
 </div>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nimurr&theme=radical&no-frame=true&no-bg=true&margin-w=6" />
-</p>
-
----
-
-## 📌 Featured Projects
-
-<details>
-  <summary>Click to expand</summary>
-
-| Project | Tech | Link |
-|--------|------|------|
-| **🏠 Hollow Digital Resume Builder** | MERN Stack | [View Project](https://github.com/nimurr/resume-builder) |
-| **🛒 Bongobuy E-commerce** | React + Node.js + MongoDB | [View Project](https://github.com/nimurr/bongobuy) |
-| **🧾 Career Guidance Website** | React, Tailwind | [View Project](https://github.com/nimurr/career-guide) |
-
-</details>
 
 ---
 
