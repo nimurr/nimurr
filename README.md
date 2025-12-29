@@ -55,15 +55,6 @@
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=nimurr&layout=compact&theme=tokyonight&hide_border=false"
-    width="100%"
-    alt="Top Languages"
-  />
-</div>
-
-
-<div align="center">
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nimurr&layout=compact&theme=tokyonight&hide_border=false)
