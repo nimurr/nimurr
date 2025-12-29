@@ -11,23 +11,6 @@
 
 ---
 
-## 🚀 About Me
-
-- 💼 I'm currently working on **Software Development Projects**
-- 👯 Looking to collaborate on **AI and MERN Stack Development**
-- 🌱 Learning **Advanced MERN Stack Concepts**
-- ⚡ Fun fact: I'm a **Crazy Developer** who loves building creative web apps!
-
----
-
-## 🌐 Connect With Me
-
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/NimurRahmanNerob)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nimurrhmann)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nimur/)
-
----
-
 ## 🧰 Tech Stack
 
 <div align="">
